@@ -1,13 +1,21 @@
 {
   "version": "25.3",
+<<<<<<< HEAD
   "toolchainPath": "/Users/faculedesma/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-darwin-arm64-arm-none-eabi",
+=======
+  "toolchainPath": "C:/Users/amspa/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-mingw-w64-i686-arm-none-eabi",
+>>>>>>> 499c6fc4aa5e186623e87db8d36a35287ffd5cbb
   "linkedProjects": [],
   "trustZoneType": "none",
   "multicoreType": "none",
   "projectType": "sdk-freestanding",
   "sdk": {
     "version": "25.03.00",
+<<<<<<< HEAD
     "path": "/Users/faculedesma/Documents/GitHub/curso-lse/workspace_lpc845/sdks/01_blinky_sdk",
+=======
+    "path": "c:\\Users\\amspa\\OneDrive\\Documentos\\GitHub\\curso-lse\\workspace_lpc845\\sdks\\01_blinky_sdk",
+>>>>>>> 499c6fc4aa5e186623e87db8d36a35287ffd5cbb
     "boardId": "lpc845breakout",
     "deviceId": "LPC845",
     "coreId": "core0_LPC845"

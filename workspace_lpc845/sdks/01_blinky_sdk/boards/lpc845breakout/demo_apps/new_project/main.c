@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 /*
  * Copyright (c) 2013 - 2015, Freescale Semiconductor, Inc.
@@ -42,3 +43,49 @@ int main(void)
     {
     }
 }
+=======
+
+/*
+ * Copyright (c) 2013 - 2015, Freescale Semiconductor, Inc.
+ * Copyright 2016-2017 NXP
+ * All rights reserved.
+ *
+ * SPDX-License-Identifier: BSD-3-Clause
+ */
+
+#include "fsl_device_registers.h"
+
+#include "pin_mux.h"
+#include "clock_config.h"
+#include "peripherals.h"
+
+#include "board.h"
+#include "app.h"
+
+/*******************************************************************************
+ * Definitions
+ ******************************************************************************/
+
+/*******************************************************************************
+ * Prototypes
+ ******************************************************************************/
+
+/*******************************************************************************
+ * Code
+ ******************************************************************************/
+/*!
+ * @brief Main function
+ */
+
+int main(void)
+{
+
+    /* Init board hardware. */
+    BOARD_InitHardware();
+
+    /* Add user custom codes below */
+    while (1)
+    {
+    }
+}
+>>>>>>> 499c6fc4aa5e186623e87db8d36a35287ffd5cbb

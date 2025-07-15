@@ -1,0 +1,24 @@
+# ninja log v6
+5	79	1752588144494108407	CMakeFiles/new_project.elf.dir/Users/faculedesma/Documents/GitHub/curso-lse/workspace_lpc845/sdks/sdks/TP_F_sdk/devices/LPC845/gcc/startup_LPC845.S.obj	2d927b7df0f7d5a8
+2	97	1752588144490461505	CMakeFiles/new_project.elf.dir/Users/faculedesma/Documents/GitHub/curso-lse/workspace_lpc845/sdks/TP_F/peripherals.c.obj	36c11d4564998a28
+7	133	1752588144495920149	CMakeFiles/new_project.elf.dir/Users/faculedesma/Documents/GitHub/curso-lse/workspace_lpc845/sdks/sdks/TP_F_sdk/devices/LPC845/system_LPC845.c.obj	fdbc58be7094a0bc
+3	137	1752588144491489626	CMakeFiles/new_project.elf.dir/Users/faculedesma/Documents/GitHub/curso-lse/workspace_lpc845/sdks/TP_F/hardware_init.c.obj	1a9a97b4d6890b0
+2	139	1752588144491234835	CMakeFiles/new_project.elf.dir/Users/faculedesma/Documents/GitHub/curso-lse/workspace_lpc845/sdks/TP_F/clock_config.c.obj	e44912c35670c18
+2	143	1752588144490784462	CMakeFiles/new_project.elf.dir/Users/faculedesma/Documents/GitHub/curso-lse/workspace_lpc845/sdks/TP_F/pin_mux.c.obj	357aa79a2d5717ab
+2	147	1752588144491073919	CMakeFiles/new_project.elf.dir/Users/faculedesma/Documents/GitHub/curso-lse/workspace_lpc845/sdks/TP_F/board.c.obj	79be6e16cdd6ad10
+4	151	1752588144492874328	CMakeFiles/new_project.elf.dir/Users/faculedesma/Documents/GitHub/curso-lse/workspace_lpc845/sdks/sdks/TP_F_sdk/components/uart/fsl_adapter_miniusart.c.obj	91f4d9aaaba950af
+97	173	1752588144586170611	CMakeFiles/new_project.elf.dir/Users/faculedesma/Documents/GitHub/curso-lse/workspace_lpc845/sdks/sdks/TP_F_sdk/devices/LPC845/drivers/fsl_common_arm.c.obj	9d407fbcbfe5e5ba
+10	174	1752588144498438764	CMakeFiles/new_project.elf.dir/Users/faculedesma/Documents/GitHub/curso-lse/workspace_lpc845/sdks/sdks/TP_F_sdk/devices/LPC845/drivers/fsl_clock.c.obj	a6506121923fb10a
+79	185	1752588144567656562	CMakeFiles/new_project.elf.dir/Users/faculedesma/Documents/GitHub/curso-lse/workspace_lpc845/sdks/sdks/TP_F_sdk/devices/LPC845/drivers/fsl_common.c.obj	bb759d2b3b10439
+5	129	1752588388066081192	CMakeFiles/new_project.elf.dir/Users/faculedesma/Documents/GitHub/curso-lse/workspace_lpc845/sdks/sdks/TP_F_sdk/devices/LPC845/utilities/fsl_syscall_stub.c.obj	1255d265ed78a1b6
+6	129	1752588388066423316	CMakeFiles/new_project.elf.dir/Users/faculedesma/Documents/GitHub/curso-lse/workspace_lpc845/sdks/sdks/TP_F_sdk/devices/LPC845/utilities/fsl_sbrk.c.obj	a54dd51c18093a03
+3	137	1752588388063856868	CMakeFiles/new_project.elf.dir/Users/faculedesma/Documents/GitHub/curso-lse/workspace_lpc845/sdks/sdks/TP_F_sdk/devices/LPC845/drivers/fsl_inputmux.c.obj	d7335678535d28cc
+3	138	1752588388064019034	CMakeFiles/new_project.elf.dir/Users/faculedesma/Documents/GitHub/curso-lse/workspace_lpc845/sdks/sdks/TP_F_sdk/devices/LPC845/drivers/fsl_gpio.c.obj	fac2e2e871bd8af5
+5	139	1752588388065916359	CMakeFiles/new_project.elf.dir/Users/faculedesma/Documents/GitHub/curso-lse/workspace_lpc845/sdks/sdks/TP_F_sdk/devices/LPC845/drivers/fsl_syscon.c.obj	901f2288eedecf76
+4	141	1752588388065106571	CMakeFiles/new_project.elf.dir/Users/faculedesma/Documents/GitHub/curso-lse/workspace_lpc845/sdks/sdks/TP_F_sdk/devices/LPC845/drivers/fsl_reset.c.obj	f65572ac0c8d610d
+5	143	1752588388065649652	CMakeFiles/new_project.elf.dir/Users/faculedesma/Documents/GitHub/curso-lse/workspace_lpc845/sdks/sdks/TP_F_sdk/devices/LPC845/drivers/fsl_swm.c.obj	558a9cf59f73533
+4	144	1752588388064526865	CMakeFiles/new_project.elf.dir/Users/faculedesma/Documents/GitHub/curso-lse/workspace_lpc845/sdks/sdks/TP_F_sdk/devices/LPC845/drivers/fsl_power.c.obj	cf754de242bcf94
+3	166	1752588388064212283	CMakeFiles/new_project.elf.dir/Users/faculedesma/Documents/GitHub/curso-lse/workspace_lpc845/sdks/sdks/TP_F_sdk/devices/LPC845/drivers/fsl_usart.c.obj	54220862cc500800
+5	160	1752588613613815494	CMakeFiles/new_project.elf.dir/Users/faculedesma/Documents/GitHub/curso-lse/workspace_lpc845/sdks/sdks/TP_F_sdk/devices/LPC845/utilities/debug_console_lite/fsl_assert.c.obj	693d54385fe5b94c
+5	166	1752588613613945952	CMakeFiles/new_project.elf.dir/Users/faculedesma/Documents/GitHub/curso-lse/workspace_lpc845/sdks/sdks/TP_F_sdk/devices/LPC845/utilities/debug_console_lite/fsl_debug_console.c.obj	c54128a79562561e
+5	175	1752588613614070452	CMakeFiles/new_project.elf.dir/Users/faculedesma/Documents/GitHub/curso-lse/workspace_lpc845/sdks/sdks/TP_F_sdk/devices/LPC845/utilities/str/fsl_str.c.obj	4ad6de2eb4b6f462

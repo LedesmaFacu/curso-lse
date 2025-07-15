@@ -1,0 +1,3 @@
+/Users/faculedesma/Documents/GitHub/curso-lse/workspace_lpc845/sdks/TP_F/armgcc/debug/CMakeFiles/new_project.elf.dir
+/Users/faculedesma/Documents/GitHub/curso-lse/workspace_lpc845/sdks/TP_F/armgcc/debug/CMakeFiles/edit_cache.dir
+/Users/faculedesma/Documents/GitHub/curso-lse/workspace_lpc845/sdks/TP_F/armgcc/debug/CMakeFiles/rebuild_cache.dir

@@ -8,7 +8,11 @@
     
       "executable": "",
       "stopAtSymbol": "main",
+<<<<<<< HEAD
       "probeSerialNumber": "1301202F",
+=======
+      "probeSerialNumber": "",
+>>>>>>> 499c6fc4aa5e186623e87db8d36a35287ffd5cbb
       "isAttach": false,
       "probeType": "",
       "skipBuildBeforeDebug": false,

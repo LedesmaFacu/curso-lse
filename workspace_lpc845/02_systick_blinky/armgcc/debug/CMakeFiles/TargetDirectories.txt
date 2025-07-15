@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 /Users/faculedesma/Documents/GitHub/curso-lse/workspace_lpc845/02_systick_blinky/armgcc/debug/CMakeFiles/new_project.elf.dir
 /Users/faculedesma/Documents/GitHub/curso-lse/workspace_lpc845/02_systick_blinky/armgcc/debug/CMakeFiles/edit_cache.dir
 /Users/faculedesma/Documents/GitHub/curso-lse/workspace_lpc845/02_systick_blinky/armgcc/debug/CMakeFiles/rebuild_cache.dir
+=======
+C:/Users/amspa/OneDrive/Documentos/GitHub/curso-lse/workspace_lpc845/02_systick_blinky/armgcc/debug/CMakeFiles/new_project.elf.dir
+C:/Users/amspa/OneDrive/Documentos/GitHub/curso-lse/workspace_lpc845/02_systick_blinky/armgcc/debug/CMakeFiles/edit_cache.dir
+C:/Users/amspa/OneDrive/Documentos/GitHub/curso-lse/workspace_lpc845/02_systick_blinky/armgcc/debug/CMakeFiles/rebuild_cache.dir
+>>>>>>> 499c6fc4aa5e186623e87db8d36a35287ffd5cbb

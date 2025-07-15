@@ -9,11 +9,19 @@
       "displayName": "debug-env",
       "hidden": true,
       "environment": {
+<<<<<<< HEAD
         "ARMGCC_DIR": "/Users/faculedesma/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-darwin-arm64-arm-none-eabi",
         "SdkRootDirPath": "/Users/faculedesma/Documents/GitHub/curso-lse/workspace_lpc845/sdks/01_blinky_sdk",
         "POSTPROCESS_UTILITY": "/Users/faculedesma/.mcuxpressotools/mcux-fixelf/mcux-fixelf",
         "MCUX_VENV_PATH": "/Users/faculedesma/.mcuxpressotools/.venv/bin",
         "PATH": "$env{MCUX_VENV_PATH}:$penv{PATH}"
+=======
+        "ARMGCC_DIR": "C:/Users/amspa/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-mingw-w64-i686-arm-none-eabi",
+        "SdkRootDirPath": "c:/Users/amspa/OneDrive/Documentos/GitHub/curso-lse/workspace_lpc845/sdks/01_blinky_sdk",
+        "POSTPROCESS_UTILITY": "C:/Users/amspa/.mcuxpressotools/mcux-fixelf/mcux-fixelf.exe",
+        "MCUX_VENV_PATH": "C:/Users/amspa/.mcuxpressotools/.venv/Scripts",
+        "PATH": "$env{MCUX_VENV_PATH};$penv{PATH}"
+>>>>>>> 499c6fc4aa5e186623e87db8d36a35287ffd5cbb
       }
     },
     {
@@ -21,11 +29,19 @@
       "displayName": "release-env",
       "hidden": true,
       "environment": {
+<<<<<<< HEAD
         "ARMGCC_DIR": "/Users/faculedesma/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-darwin-arm64-arm-none-eabi",
         "SdkRootDirPath": "/Users/faculedesma/Documents/GitHub/curso-lse/workspace_lpc845/sdks/01_blinky_sdk",
         "POSTPROCESS_UTILITY": "/Users/faculedesma/.mcuxpressotools/mcux-fixelf/mcux-fixelf",
         "MCUX_VENV_PATH": "/Users/faculedesma/.mcuxpressotools/.venv/bin",
         "PATH": "$env{MCUX_VENV_PATH}:$penv{PATH}"
+=======
+        "ARMGCC_DIR": "C:/Users/amspa/.mcuxpressotools/arm-gnu-toolchain-13.2.Rel1-mingw-w64-i686-arm-none-eabi",
+        "SdkRootDirPath": "c:/Users/amspa/OneDrive/Documentos/GitHub/curso-lse/workspace_lpc845/sdks/01_blinky_sdk",
+        "POSTPROCESS_UTILITY": "C:/Users/amspa/.mcuxpressotools/mcux-fixelf/mcux-fixelf.exe",
+        "MCUX_VENV_PATH": "C:/Users/amspa/.mcuxpressotools/.venv/Scripts",
+        "PATH": "$env{MCUX_VENV_PATH};$penv{PATH}"
+>>>>>>> 499c6fc4aa5e186623e87db8d36a35287ffd5cbb
       }
     }
   ],

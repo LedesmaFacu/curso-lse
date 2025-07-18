@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"name": "tp_final",
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"fsl_capt.h": "c",
+			"app_tasks.h": "c"
+		}
+	}
+}

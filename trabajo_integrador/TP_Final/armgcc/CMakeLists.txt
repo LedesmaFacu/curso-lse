@@ -53,6 +53,13 @@ add_executable(${MCUX_SDK_PROJECT_NAME}
 "${ProjDirPath}/../hardware_init.c"
 "${ProjDirPath}/../app.h"
 "${ProjDirPath}/../mcux_config.h"
+"${ProjDirPath}/../app_tasks.h"
+"${ProjDirPath}/../app_tasks.c"
+"${ProjDirPath}/../isr.c"
+"${ProjDirPath}/../isr.h"
+"${ProjDirPath}/../labels.h"
+"${ProjDirPath}/../wrappers.h"
+"${ProjDirPath}/../wrappers.c"
 )
 
 target_include_directories(${MCUX_SDK_PROJECT_NAME} PRIVATE

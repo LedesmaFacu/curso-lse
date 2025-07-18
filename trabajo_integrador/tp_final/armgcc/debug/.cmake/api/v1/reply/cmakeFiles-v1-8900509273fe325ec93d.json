@@ -165,6 +165,10 @@
 		},
 		{
 			"isExternal" : true,
+			"path" : "/Users/faculedesma/Documents/GitHub/curso-lse/trabajo_integrador/sdks/tp_final_sdk/devices/LPC845/drivers/driver_capt.LPC845.cmake"
+		},
+		{
+			"isExternal" : true,
 			"path" : "/Users/faculedesma/Documents/GitHub/curso-lse/trabajo_integrador/sdks/tp_final_sdk/devices/LPC845/drivers/driver_clock.LPC845.cmake"
 		},
 		{
@@ -181,7 +185,15 @@
 		},
 		{
 			"isExternal" : true,
+			"path" : "/Users/faculedesma/Documents/GitHub/curso-lse/trabajo_integrador/sdks/tp_final_sdk/devices/LPC845/drivers/driver_lpc_adc.LPC845.cmake"
+		},
+		{
+			"isExternal" : true,
 			"path" : "/Users/faculedesma/Documents/GitHub/curso-lse/trabajo_integrador/sdks/tp_final_sdk/devices/LPC845/drivers/driver_lpc_gpio.LPC845.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/faculedesma/Documents/GitHub/curso-lse/trabajo_integrador/sdks/tp_final_sdk/devices/LPC845/drivers/driver_lpc_i2c.LPC845.cmake"
 		},
 		{
 			"isExternal" : true,
@@ -193,11 +205,19 @@
 		},
 		{
 			"isExternal" : true,
+			"path" : "/Users/faculedesma/Documents/GitHub/curso-lse/trabajo_integrador/sdks/tp_final_sdk/devices/LPC845/drivers/driver_pint.LPC845.cmake"
+		},
+		{
+			"isExternal" : true,
 			"path" : "/Users/faculedesma/Documents/GitHub/curso-lse/trabajo_integrador/sdks/tp_final_sdk/devices/LPC845/drivers/driver_power.LPC845.cmake"
 		},
 		{
 			"isExternal" : true,
 			"path" : "/Users/faculedesma/Documents/GitHub/curso-lse/trabajo_integrador/sdks/tp_final_sdk/devices/LPC845/drivers/driver_reset.LPC845.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/faculedesma/Documents/GitHub/curso-lse/trabajo_integrador/sdks/tp_final_sdk/devices/LPC845/drivers/driver_sctimer.LPC845.cmake"
 		},
 		{
 			"isExternal" : true,
